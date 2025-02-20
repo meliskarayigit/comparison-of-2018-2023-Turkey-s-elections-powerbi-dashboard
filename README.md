@@ -55,8 +55,12 @@ This Power BI dashboard provides a comprehensive analysis and visualization of T
 1. **Navigation**
    - Use the left-side menu buttons to switch between different election years and comparisons
    - Select "2018 SEÇİMİ" for 2018 election data
+     
    - Select "2023 SEÇİMİ" for 2023 election data
+     ![image](https://github.com/user-attachments/assets/03ca3aae-c7e7-41ca-9327-da6fb24b47be)
+     
    - Select "KARŞILAŞTIRMA" for comparative analysis
+     ![image](https://github.com/user-attachments/assets/cf85c8eb-ba5d-4586-9503-7f5998a7f3ae)
 
 2. **Map Interaction**
    - Zoom in/out using the (+/-) controls
